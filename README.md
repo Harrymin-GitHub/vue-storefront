@@ -54,7 +54,7 @@
 </p>
 
 ![Hero image](./_readme/HeroImage.png)
-
+https://www.vuestorefront.io/
 Alokai is your guide to the composable commerce world that simplifies building, deploying, and monitoring ecommerce frontends.
 
 - **Works with any backend**. Alokai is compatible with any backend that has an API. In addition its already integrated with many of them! [See the list of available integrations](https://docs.vuestorefront.io/v2/integrations/#ecommerce-platforms).
